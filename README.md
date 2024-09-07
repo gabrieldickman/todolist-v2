@@ -5,7 +5,7 @@ O sistema em questão foi criado apenas como forma de praticar os conhecimento o
 
 ### ⚙️ Pré-requisitos para rodar o sistema
 
-- Um edito de código ou IDE
+- Um editor de código ou IDE
 - Navegador
 
 ### 💻 Tecnologias e ferramentas utilizadas:
